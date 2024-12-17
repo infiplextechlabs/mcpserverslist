@@ -28,6 +28,7 @@ export default function ServerCard({ server }) {
           </span>
         ))}
       </div>
+      <p className={styles.description}>{server.description}</p>
       <div className={styles.github}>
         <span className={styles.githubLink}>
           View on GitHub →
