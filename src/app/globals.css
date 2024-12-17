@@ -1,6 +1,13 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #121212;
+  --foreground: #ffffff;
+  --card-background: #1e1e1e;
+  --border-color: rgba(255, 255, 255, 0.1);
+  --text-primary: #ffffff;
+  --text-secondary: #888888;
+  --accent-color: #0070f3;
+  --accent-hover: #0051a2;
+  --font-cardo: 'Cardo', serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,14 +21,47 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  background: var(--background);
+  color: var(--text-primary);
+}
+
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+  padding-top: 92px; /* 16px (top margin) + 60px (header height) + 16px (spacing) */
+}
+
+@media (max-width: 768px) {
+  .main {
+    padding-top: 84px;
+  }
+
+  body {
+    font-size: 15px; /* Slightly smaller base font size for mobile */
+  }
+}
+
+@media (max-width: 480px) {
+  .main {
+    padding-top: 76px;
+  }
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-cardo);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-cardo);
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 * {
@@ -33,6 +73,7 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+  font-family: var(--font-cardo);
 }
 
 @media (prefers-color-scheme: dark) {
