@@ -21,8 +21,8 @@ export default function SearchAndFilters({ categories, onSearch, onFilter }) {
     trackCategoryFilter(category)
   }
 
-  return (
-    <div className={styles.container}>
+  const renderSearch = () => {
+    return (
       <div className={styles.search}>
         <svg className={styles.searchIcon} viewBox="0 0 24 24" fill="none" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -33,6 +33,12 @@ export default function SearchAndFilters({ categories, onSearch, onFilter }) {
           onChange={handleSearch}
         />
       </div>
+    )
+  }
+
+  return (
+    <div className={styles.container}>
+      {/* {renderSearch()} */}
       <div className={styles.categories}>
         <button
           className={`${styles.category} ${activeCategory === 'all' ? styles.active : ''}`}

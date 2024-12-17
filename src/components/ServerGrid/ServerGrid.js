@@ -19,8 +19,9 @@ export default function ServerGrid({ servers }) {
 
     const term = searchTerm.toLowerCase()
     const filtered = servers.filter(server => 
-      server.title.toLowerCase().includes(term) ||
-      server.category.some(cat => cat.toLowerCase().includes(term))
+      server.title.toLowerCase().includes(term) 
+      // ||
+      // server.category.some(cat => cat.toLowerCase().includes(term))
     )
     setFilteredServers(filtered)
   }
