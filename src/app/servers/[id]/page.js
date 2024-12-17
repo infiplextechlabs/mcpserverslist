@@ -4,7 +4,7 @@ import ServerPageClient from './ServerPageClient'
 
 async function getServer(id) {
   const serverId = typeof id === 'string' ? parseInt(id) : id
-  const server = dummyServers.find(s => s.id === serverId)
+  const server = dummyServers.find(s => encodeURIComponent(s.id) === serverId)
   if (!server) return null
   return server
 }

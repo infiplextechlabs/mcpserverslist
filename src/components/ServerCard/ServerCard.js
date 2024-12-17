@@ -1,26 +1,26 @@
 'use client'
 
-import { trackGithubClick, trackServerClick } from '@/utils/gtag'
-import Link from 'next/link'
+import { trackGithubClick } from '@/utils/gtag'
 import styles from './ServerCard.module.css'
 
 export default function ServerCard({ server }) {
-  const handleGithubClick = (e) => {
-    e.stopPropagation()
+  const handleClick = (e) => {
     trackGithubClick(server.title, server.githubUrl)
   }
 
-  const handleCardClick = () => {
-    trackServerClick(server.title)
-  }
+  const displayTitle = server.title.includes('/') 
+    ? server.title.split('/').pop() 
+    : server.title
 
   return (
-    <Link 
-      href={`/servers/${server.id}`} 
+    <a 
+      href={server.githubUrl}
+      target="_blank"
+      rel="noopener noreferrer"
       className={styles.card}
-      onClick={handleCardClick}
+      onClick={handleClick}
     >
-      <h2>{server.title}</h2>
+      <h2>{displayTitle}</h2>
       <div className={styles.categories}>
         {server.category.map((cat) => (
           <span key={cat} className={styles.category}>
@@ -29,16 +29,10 @@ export default function ServerCard({ server }) {
         ))}
       </div>
       <div className={styles.github}>
-        <a 
-          href={server.githubUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={styles.githubLink}
-          onClick={handleGithubClick}
-        >
+        <span className={styles.githubLink}>
           View on GitHub →
-        </a>
+        </span>
       </div>
-    </Link>
+    </a>
   )
 } 

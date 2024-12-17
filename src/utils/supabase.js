@@ -1,24 +1,13 @@
-// Dummy data for development
-export const dummyServers = [
-  {
-    id: 1,
-    title: "MCProtocol.js",
-    githubUrl: "https://github.com/PrismarineJS/node-minecraft-protocol",
-    category: ["JavaScript", "Node.js", "Network"]
-  },
-  {
-    id: 2,
-    title: "Minestom",
-    githubUrl: "https://github.com/Minestom/Minestom",
-    category: ["Java", "Performance", "API"]
-  },
-  {
-    id: 3,
-    title: "MCProtocolLib",
-    githubUrl: "https://github.com/GeyserMC/MCProtocolLib",
-    category: ["Java", "Network", "Library"]
-  }
-];
+import mcpServers from '../../public/mcpserverlist.json';
+
+// Transform the JSON data to match our schema
+export const dummyServers = mcpServers.map(server => ({
+  id: encodeURIComponent(server.link),
+  title: server.name,
+  githubUrl: server.link,
+  category: [server.category],
+  description: server.description
+}));
 
 // Mock Supabase client
 export const supabase = {
@@ -29,7 +18,8 @@ export const supabase = {
     }),
     eq: () => ({
       single: () => ({
-        data: dummyServers[0],
+        // Find server by encoded URL
+        data: dummyServers.find(s => encodeURIComponent(s.id) === arguments[1]),
         error: null
       })
     })
