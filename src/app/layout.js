@@ -4,6 +4,7 @@ import { Analytics } from '@/utils/analytics'
 import { GA_TRACKING_ID } from '@/utils/gtag'
 import { Cardo } from 'next/font/google'
 import Script from 'next/script'
+import { Suspense } from 'react'
 import './globals.css'
 
 const cardo = Cardo({ 
@@ -45,7 +46,9 @@ export default function RootLayout({ children }) {
           <Header />
           <main className="main">{children}</main>
           <Footer />
-          <Analytics />
+          <Suspense>
+            <Analytics />
+          </Suspense>
         </div>
       </body>
     </html>

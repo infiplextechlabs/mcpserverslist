@@ -1,4 +1,4 @@
-export const GA_TRACKING_ID = 'G-XXXXXXXXXX' // Replace with your tracking ID
+export const GA_TRACKING_ID = 'G-V7Y0WSQ9PJ' // Replace with your tracking ID
 
 // https://developers.google.com/analytics/devguides/collection/gtagjs/pages
 export const pageview = (url) => {
