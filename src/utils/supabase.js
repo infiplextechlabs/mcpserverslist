@@ -1,7 +1,7 @@
 import mcpServers from '../../public/mcpserverlist.json';
 
 // Transform the JSON data to match our schema
-export const dummyServers = mcpServers.map(server => ({
+export const servers = mcpServers.map(server => ({
   id: encodeURIComponent(server.link),
   title: server.name,
   githubUrl: server.link,
@@ -13,13 +13,13 @@ export const dummyServers = mcpServers.map(server => ({
 export const supabase = {
   from: () => ({
     select: () => ({
-      data: dummyServers,
+      data: servers,
       error: null
     }),
     eq: () => ({
       single: () => ({
         // Find server by encoded URL
-        data: dummyServers.find(s => encodeURIComponent(s.id) === arguments[1]),
+        data: servers.find(s => encodeURIComponent(s.id) === arguments[1]),
         error: null
       })
     })

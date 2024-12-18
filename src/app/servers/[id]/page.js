@@ -1,16 +1,14 @@
 import { getRepoData } from '@/utils/github'
-import { dummyServers } from '@/utils/supabase'
+import { servers } from '@/utils/servers'
 import ServerPageClient from './ServerPageClient'
 
 async function getServer(id) {
-  const serverId = typeof id === 'string' ? parseInt(id) : id
-  const server = dummyServers.find(s => encodeURIComponent(s.id) === serverId)
+  const server = servers.find(s => encodeURIComponent(s.id) === id)
   if (!server) return null
   return server
 }
 
-export default async function ServerPage({ params: paramsPromise }) {
-  const params = await paramsPromise;
+export default async function ServerPage({ params }) {
   const server = await getServer(params.id)
   const githubData = server ? await getRepoData(server.githubUrl) : null
   return <ServerPageClient server={server} githubData={githubData} />

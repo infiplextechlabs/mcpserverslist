@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MCP Servers Directory
 
-## Getting Started
+A comprehensive directory of Model Context Protocol (MCP) servers and implementations. This platform helps developers discover and explore various MCP servers for different use cases.
+
+## What is MCP?
+
+Model Context Protocol (MCP) is a protocol that enables AI models to interact with external services and tools in a standardized way. It provides a bridge between Large Language Models (LLMs) and various services, allowing for seamless integration and automation.
+
+## Features
+
+- 🔍 Browse MCP servers by category
+- 🏷️ Filter servers by different categories (Browser Automation, Databases, Cloud Platforms, etc.)
+- 🔗 Direct links to GitHub repositories
+- 📊 Real-time GitHub stats integration
+
+## Categories
+
+- Browser Automation
+- Cloud Platforms
+- Communication
+- Consumer Data Platforms
+- Databases
+- Developer Tools
+- Data Science Tools
+- Fintech
+- Knowledge + Memory
+- Location Services
+- Monitoring
+- Search
+- Security
+- Travel
+- Version Control
+- And more..
+
+## Development
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
+yarn install
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Learn More
+### Adding a new server
 
-To learn more about Next.js, take a look at the following resources:
+Add the server to the `public/mcpserverlist.json` file.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Format:
+```json
+{
+  "category": "Consumer Data Platforms",
+  "name": "tinybirdco/mcp-tinybird",
+  "link": "https://github.com/tinybirdco/mcp-tinybird",
+  "description": "An MCP server to interact with a Tinybird Workspace from any MCP client.",
+  "params": ""
+}
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Acknowledgments
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- All the amazing MCP server developers
+- The Model Context Protocol community
+- Contributors and maintainers
+
+## Contact
+
+For any queries or suggestions, please open an issue in the repository.
+
+---
+
+Made with ❤️ for the MCP community
