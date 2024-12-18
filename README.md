@@ -82,4 +82,9 @@ For any queries or suggestions, please open an issue in the repository.
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=infiplextechlabs/mcpserverslist&type=Timeline)](https://star-history.com/#infiplextechlabs/mcpserverslist&Timeline)
+
+
 Made with ❤️ for the MCP community
