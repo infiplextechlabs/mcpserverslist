@@ -1,7 +1,7 @@
 ---
 name: Submit MCP Server
-about: Submit an MCP server mcpserverslist.vercel.app
-title: ''
+about: Submit an MCP server to [mcpserverslist.vercel.app](https://mcpserverslist.vercel.app)
+title: '[MCP Server] <MCP Server Name>'
 labels: submission
 assignees: 'pulkonet'
 

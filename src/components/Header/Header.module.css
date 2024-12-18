@@ -65,6 +65,35 @@
   transform: translateX(-2px);
 }
 
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.addButton {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: var(--accent-color);
+  color: white;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.addButton:hover {
+  background: var(--accent-hover);
+  transform: translateY(-1px);
+}
+
+.plusIcon {
+  width: 16px;
+  height: 16px;
+}
+
 @media (max-width: 768px) {
   .header {
     width: 90%;
@@ -89,6 +118,20 @@
     width: 14px;
     height: 14px;
   }
+
+  .actions {
+    gap: 12px;
+  }
+
+  .addButton {
+    padding: 6px 12px;
+    font-size: 0.85rem;
+  }
+
+  .plusIcon {
+    width: 14px;
+    height: 14px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -101,6 +144,14 @@
   }
 
   .back {
+    padding: 8px;
+  }
+
+  .addButton span {
+    display: none;
+  }
+
+  .addButton {
     padding: 8px;
   }
 } 

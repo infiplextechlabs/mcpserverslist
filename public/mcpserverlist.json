@@ -1,7 +1,6 @@
 [
     {
         "category": "Browser Automation",
-        "source": "- [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - An MCP server using Playwright for browser automation and webscrapping",
         "name": "@executeautomation/playwright-mcp-server",
         "link": "https://github.com/executeautomation/mcp-playwright",
         "description": "An MCP server using Playwright for browser automation and webscrapping",
@@ -9,7 +8,6 @@
     },
     {
         "category": "Browser Automation",
-        "source": "- [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - An MCP server for browser automation using Playwright",
         "name": "@automatalabs/mcp-server-playwright",
         "link": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
         "description": "An MCP server for browser automation using Playwright",
@@ -17,7 +15,6 @@
     },
     {
         "category": "Browser Automation",
-        "source": "- [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction",
         "name": "@modelcontextprotocol/server-puppeteer",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
         "description": "Browser automation for web scraping and interaction",
@@ -25,7 +22,6 @@
     },
     {
         "category": "Browser Automation",
-        "source": "- [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis",
         "name": "@kimtaeyoon83/mcp-server-youtube-transcript",
         "link": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
         "description": "Fetch YouTube subtitles and transcripts for AI analysis",
@@ -33,7 +29,6 @@
     },
     {
         "category": "Browser Automation",
-        "source": "- [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts",
         "name": "@recursechat/mcp-server-apple-shortcuts",
         "link": "https://github.com/recursechat/mcp-server-apple-shortcuts",
         "description": "An MCP Server Integration with Apple Shortcuts",
@@ -41,7 +36,6 @@
     },
     {
         "category": "Cloud Platforms",
-        "source": "- [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integration with Cloudflare services including Workers, KV, R2, and D1",
         "name": "Cloudflare MCP Server",
         "link": "https://github.com/cloudflare/mcp-server-cloudflare",
         "description": "Integration with Cloudflare services including Workers, KV, R2, and D1",
@@ -49,7 +43,6 @@
     },
     {
         "category": "Cloud Platforms",
-        "source": "- [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️/🏠 Kubernetes cluster operations through MCP",
         "name": "Kubernetes MCP Server",
         "link": "https://github.com/strowk/mcp-k8s-go",
         "description": "🏎️ ☁️/🏠 Kubernetes cluster operations through MCP",
@@ -57,7 +50,6 @@
     },
     {
         "category": "Cloud Platforms",
-        "source": "- [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 Typescript implementation of Kubernetes cluster operations for pods, deployments, services.",
         "name": "@flux159/mcp-server-kubernetes",
         "link": "https://github.com/Flux159/mcp-server-kubernetes",
         "description": "📇 ☁️/🏠 Typescript implementation of Kubernetes cluster operations for pods, deployments, services.",
@@ -65,7 +57,6 @@
     },
     {
         "category": "Command Line",
-        "source": "- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.",
         "name": "g0t4/mcp-server-commands",
         "link": "https://github.com/g0t4/mcp-server-commands",
         "description": "Run any command with `run_command` and `run_script` tools.",
@@ -73,7 +64,6 @@
     },
     {
         "category": "Command Line",
-        "source": "- [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - Command line interface with secure execution and customizable security policies",
         "name": "MladenSU/cli-mcp-server",
         "link": "https://github.com/MladenSU/cli-mcp-server",
         "description": "Command line interface with secure execution and customizable security policies",
@@ -81,7 +71,6 @@
     },
     {
         "category": "Command Line",
-        "source": "- [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) A secure shell command execution server implementing the Model Context Protocol (MCP)",
         "name": "tumf/mcp-shell-server",
         "link": "https://github.com/tumf/mcp-shell-server",
         "description": "server) A secure shell command execution server implementing the Model Context Protocol (MCP)",
@@ -89,7 +78,6 @@
     },
     {
         "category": "Communication",
-        "source": "- [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP), enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling",
         "name": "hannesrudolph/imessage-query-fastmcp-mcp-server",
         "link": "https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server",
         "description": "An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP), enabling LLMs to query and analyze iMessage conversations with proper phone number validation and attachment handling",
@@ -97,7 +85,6 @@
     },
     {
         "category": "Communication",
-        "source": "- [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - Slack workspace integration for channel management and messaging",
         "name": "@modelcontextprotocol/server-slack",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/slack",
         "description": "Slack workspace integration for channel management and messaging",
@@ -105,7 +92,6 @@
     },
     {
         "category": "Communication",
-        "source": "- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction",
         "name": "@modelcontextprotocol/server-bluesky",
         "link": "https://github.com/keturiosakys/bluesky-context-server",
         "description": "Bluesky instance integration for querying and interaction",
@@ -113,7 +99,6 @@
     },
     {
         "category": "Communication",
-        "source": "- [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Integration with gmail and Google Calendar.",
         "name": "MarkusPfundstein/mcp-gsuite",
         "link": "https://github.com/MarkusPfundstein/mcp-gsuite",
         "description": "Integration with gmail and Google Calendar.",
@@ -121,7 +106,6 @@
     },
     {
         "category": "Communication",
-        "source": "- [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline",
         "name": "adhikasp/mcp-twikit",
         "link": "https://github.com/adhikasp/mcp-twikit",
         "description": "Interact with Twitter search and timeline",
@@ -129,7 +113,6 @@
     },
     {
         "category": "Consumer Data Platforms",
-        "source": "- [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.",
         "name": "sergehuber/inoyu-mcp-unomi-server",
         "link": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
         "description": "An MCP server to access and updates profiles on an Apache Unomi CDP server.",
@@ -137,7 +120,6 @@
     },
     {
         "category": "Consumer Data Platforms",
-        "source": "- [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - Connect any Open Data to any LLM with Model Context Protocol.",
         "name": "OpenDataMCP/OpenDataMCP",
         "link": "https://github.com/OpenDataMCP/OpenDataMCP",
         "description": "Connect any Open Data to any LLM with Model Context Protocol.",
@@ -145,7 +127,6 @@
     },
     {
         "category": "Consumer Data Platforms",
-        "source": "- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.",
         "name": "tinybirdco/mcp-tinybird",
         "link": "https://github.com/tinybirdco/mcp-tinybird",
         "description": "An MCP server to interact with a Tinybird Workspace from any MCP client.",
@@ -153,7 +134,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - Airtable database integration with schema inspection, read and write capabilities",
         "name": "domdomegg/airtable-mcp-server",
         "link": "https://github.com/domdomegg/airtable-mcp-server",
         "description": "Airtable database integration with schema inspection, read and write capabilities",
@@ -161,7 +141,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - BigQuery database integration with schema inspection and query capabilities",
         "name": "LucasHild/mcp-server-bigquery",
         "link": "https://github.com/LucasHild/mcp-server-bigquery",
         "description": "BigQuery database integration with schema inspection and query capabilities",
@@ -169,7 +148,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities",
         "name": "ergut/mcp-bigquery-server",
         "link": "https://github.com/ergut/mcp-bigquery-server",
         "description": "Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities",
@@ -177,7 +155,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - Fireproof ledger database with multiuser sync",
         "name": "@fireproof-storage/mcp-database-server",
         "link": "https://github.com/fireproof-storage/mcp-database-server",
         "description": "Fireproof ledger database with multiuser sync",
@@ -185,7 +162,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - MySQL database integration with configurable access controls, schema inspection, and comprehensive security guidelines",
         "name": "designcomputer/mysql_mcp_server",
         "link": "https://github.com/designcomputer/mysql_mcp_server",
         "description": "MySQL database integration with configurable access controls, schema inspection, and comprehensive security guidelines",
@@ -193,7 +169,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 🐍 🏠 - Node.js-based MySQL database integration that provides secure MySQL database operations",
         "name": "f4ww4z/mcp-mysql-server",
         "link": "https://github.com/f4ww4z/mcp-mysql-server",
         "description": "based MySQL database integration that provides secure MySQL database operations",
@@ -201,7 +176,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities",
         "name": "@modelcontextprotocol/server-postgres",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
         "description": "PostgreSQL database integration with schema inspection and query capabilities",
@@ -209,7 +183,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite database operations with builtin analysis features",
         "name": "@modelcontextprotocol/server-sqlite",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite",
         "description": "SQLite database operations with builtin analysis features",
@@ -217,7 +190,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase MCP Server for managing and creating projects and organisations in Supabase",
         "name": "@joshuarileydev/supabase-mcp-server",
         "link": "https://github.com/joshuarileydev/supabase",
         "description": "Supabase MCP Server for managing and creating projects and organisations in Supabase",
@@ -225,7 +197,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities",
         "name": "ktanaka101/mcp-server-duckdb",
         "link": "https://github.com/ktanaka101/mcp-server-duckdb",
         "description": "DuckDB database integration with schema inspection and query capabilities",
@@ -233,7 +204,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB integration that enables LLMs to interact directly with databases.",
         "name": "QuantGeekDev/mongo-mcp",
         "link": "https://github.com/QuantGeekDev/mongo-mcp",
         "description": "MongoDB integration that enables LLMs to interact directly with databases.",
@@ -241,7 +211,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Tinybird integration with query and API capabilities",
         "name": "tinybirdco/mcp-tinybird",
         "link": "https://github.com/tinybirdco/mcp-tinybird",
         "description": "Tinybird integration with query and API capabilities",
@@ -249,7 +218,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - A Model Context Protocol Server for MongoDB",
         "name": "kiliczsh/mcp-mongo-server",
         "link": "https://github.com/kiliczsh/mcp-mongo-server",
         "description": "A Model Context Protocol Server for MongoDB",
@@ -257,7 +225,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - VikingDB integration with collection and index introduction, vector store and search capabilities.",
         "name": "KashiwaByte/vikingdb-mcp-server",
         "link": "https://github.com/KashiwaByte/vikingdb-mcp-server",
         "description": "VikingDB integration with collection and index introduction, vector store and search capabilities.",
@@ -265,7 +232,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Model Context Protocol with Neo4j",
         "name": "neo4j-contrib/mcp-neo4j",
         "link": "https://github.com/neo4j-contrib/mcp-neo4j",
         "description": "Model Context Protocol with Neo4j",
@@ -273,7 +239,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) 🐍 ☁️ - Snowflake integration implementing read and (optional) write operations as well as insight tracking",
         "name": "isaacwasserman/mcp-snowflake-server",
         "link": "https://github.com/isaacwasserman/mcp-snowflake-server",
         "description": "Snowflake integration implementing read and (optional) write operations as well as insight tracking",
@@ -281,7 +246,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - An MCP server that provides safe, read-only access to SQLite databases through Model Context Protocol (MCP). This server is built with the FastMCP framework, which enables LLMs to explore and query SQLite databases with built-in safety features and query validation.",
         "name": "hannesrudolph/sqlite-explorer-fastmcp-mcp-server",
         "link": "https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server",
         "description": "in safety features and query validation.",
@@ -289,7 +253,6 @@
     },
     {
         "category": "Databases",
-        "source": "- [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - Pinecone integration with vector search capabilities",
         "name": "sirmews/mcp-pinecone",
         "link": "https://github.com/sirmews/mcp-pinecone",
         "description": "Pinecone integration with vector search capabilities",
@@ -297,7 +260,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP",
         "name": "QuantGeekDev/docker-mcp",
         "link": "https://github.com/QuantGeekDev/docker-mcp",
         "description": "Docker container management and operations through MCP",
@@ -305,7 +267,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)",
         "name": "snaggle-ai/openapi-mcp-server",
         "link": "https://github.com/snaggle-ai/openapi-mcp-server",
         "description": "Connect any HTTP/REST API server using an Open API spec (v3)",
@@ -313,7 +274,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - Connect to JetBrains IDE",
         "name": "jetbrains/mcpProxy",
         "link": "https://github.com/JetBrains/mcpProxy",
         "description": "Connect to JetBrains IDE",
@@ -321,7 +281,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - A line oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage.",
         "name": "tumf/mcp-text-editor",
         "link": "https://github.com/tumf/mcp-text-editor",
         "description": "A line oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage.",
@@ -329,7 +288,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - An MCP server to control iOS Simulators",
         "name": "@joshuarileydev/simulator-mcp-server",
         "link": "https://github.com/JoshuaRileyDev/simulator-mcp-server",
         "description": "An MCP server to control iOS Simulators",
@@ -337,7 +295,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - An MCP server to communicate with the App Store Connect API for iOS Developers",
         "name": "@joshuarileydev/app-store-connect-mcp-server",
         "link": "https://github.com/JoshuaRileyDev/app-store-connect-mcp-server",
         "description": "An MCP server to communicate with the App Store Connect API for iOS Developers",
@@ -345,7 +302,6 @@
     },
     {
         "category": "Developer Tools",
-        "source": "- [@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version) 📇 🏠 - An MCP Server to help LLMs suggest the latest stable package versions when writing code.",
         "name": "@sammcj/mcp-package-version",
         "link": "https://github.com/sammcj/mcp-package-version",
         "description": "An MCP Server to help LLMs suggest the latest stable package versions when writing code.",
@@ -353,7 +309,6 @@
     },
     {
         "category": "Data Science Tools",
-        "source": "- [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - Direct local file system access.",
         "name": "@modelcontextprotocol/server-filesystem",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
         "description": "Direct local file system access.",
@@ -361,7 +316,6 @@
     },
     {
         "category": "Data Science Tools",
-        "source": "- [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive integration for listing, reading, and searching files",
         "name": "@modelcontextprotocol/server-google-drive",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive",
         "description": "Google Drive integration for listing, reading, and searching files",
@@ -369,7 +323,6 @@
     },
     {
         "category": "Data Science Tools",
-        "source": "- [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - Golang implementation for local file system access.",
         "name": "mark3labs/mcp-filesystem-server",
         "link": "https://github.com/mark3labs/mcp-filesystem-server",
         "description": "Golang implementation for local file system access.",
@@ -377,7 +330,6 @@
     },
     {
         "category": "Fintech",
-        "source": "- [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - Realtime cryptocurrency market data integration using CoinCap's public API, providing access to crypto prices and market information without API keys",
         "name": "QuantGeekDev/coincap-mcp",
         "link": "https://github.com/QuantGeekDev/coincap-mcp",
         "description": "Realtime cryptocurrency market data integration using CoinCap's public API, providing access to crypto prices and market information without API keys",
@@ -385,7 +337,6 @@
     },
     {
         "category": "Fintech",
-        "source": "- [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API integration to fetch cryptocurrency listings and quotes",
         "name": "anjor/coinmarket-mcp-server",
         "link": "https://github.com/anjor/coinmarket-mcp-server",
         "description": "Coinmarket API integration to fetch cryptocurrency listings and quotes",
@@ -393,15 +344,13 @@
     },
     {
         "category": "Knowledge + Memory",
-        "source": "- [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context",
         "name": "@modelcontextprotocol/server-memory",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
-        "description": "based persistent memory system for maintaining context",
+        "description": "Knowledge graph based persistent memory system for maintaining context",
         "params": ""
     },
     {
         "category": "Knowledge + Memory",
-        "source": "- [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Enhanced graph based memory with a focus on AI roleplay and story generation",
         "name": "/CheMiguel23/MemoryMesh",
         "link": "https://github.com/CheMiguel23/MemoryMesh",
         "description": "Enhanced graph based memory with a focus on AI roleplay and story generation",
@@ -409,7 +358,6 @@
     },
     {
         "category": "Knowledge + Memory",
-        "source": "- [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data sources",
         "name": "/topoteretes/cognee",
         "link": "https://github.com/topoteretes/cognee/tree/dev/cognee-mcp",
         "description": "Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data sources",
@@ -417,7 +365,6 @@
     },
     {
         "category": "Knowledge + Memory",
-        "source": "- [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context",
         "name": "@hannesrudolph/mcp-ragdocs",
         "link": "https://github.com/hannesrudolph/mcp-ragdocs",
         "description": "An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context",
@@ -425,7 +372,6 @@
     },
     {
         "category": "Location Services",
-        "source": "- [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google Maps integration for location services, routing, and place details",
         "name": "@modelcontextprotocol/server-google-maps",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps",
         "description": "Google Maps integration for location services, routing, and place details",
@@ -433,7 +379,6 @@
     },
     {
         "category": "Monitoring",
-        "source": "- [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Sentry.io integration for error tracking and performance monitoring",
         "name": "@modelcontextprotocol/server-sentry",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/sentry",
         "description": "Sentry.io integration for error tracking and performance monitoring",
@@ -441,7 +386,6 @@
     },
     {
         "category": "Monitoring",
-        "source": "- [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Raygun API V3 integration for crash reporting and real user monitoring",
         "name": "@modelcontextprotocol/server-raygun",
         "link": "https://github.com/MindscapeHQ/mcp-server-raygun",
         "description": "Raygun API V3 integration for crash reporting and real user monitoring",
@@ -449,7 +393,6 @@
     },
     {
         "category": "Monitoring",
-        "source": "- [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Query and interact with kubernetes environments monitored by Metoro",
         "name": "metoro-io/metoro-mcp-server",
         "link": "https://github.com/metoro-io/metoro-mcp-server",
         "description": "Query and interact with kubernetes environments monitored by Metoro",
@@ -457,7 +400,6 @@
     },
     {
         "category": "Search",
-        "source": "- [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Web search capabilities using Brave's Search API",
         "name": "@modelcontextprotocol/server-brave-search",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
         "description": "Web search capabilities using Brave's Search API",
@@ -465,7 +407,6 @@
     },
     {
         "category": "Search",
-        "source": "- [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Search articles using the NYTimes API",
         "name": "@angheljf/nyt",
         "link": "https://github.com/angheljf/nyt",
         "description": "Search articles using the NYTimes API",
@@ -473,7 +414,6 @@
     },
     {
         "category": "Search",
-        "source": "- [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - Efficient web content fetching and processing for AI consumption",
         "name": "@modelcontextprotocol/server-fetch",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
         "description": "Efficient web content fetching and processing for AI consumption",
@@ -481,7 +421,6 @@
     },
     {
         "category": "Search",
-        "source": "- [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration",
         "name": "ac3xx/mcp-servers-kagi",
         "link": "https://github.com/ac3xx/mcp-servers-kagi",
         "description": "Kagi search API integration",
@@ -489,7 +428,6 @@
     },
     {
         "category": "Search",
-        "source": "- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.",
         "name": "exa-labs/exa-mcp-server",
         "link": "https://github.com/exa-labs/exa-mcp-server",
         "description": "time web information in a safe and controlled way.",
@@ -497,7 +435,6 @@
     },
     {
         "category": "Search",
-        "source": "- [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - Search via search1api (requires paid API key)",
         "name": "fatwang2/search1api-mcp",
         "link": "https://github.com/fatwang2/search1api-mcp",
         "description": "Search via search1api (requires paid API key)",
@@ -505,7 +442,6 @@
     },
     {
         "category": "Search",
-        "source": "- [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 - Tavily AI search API",
         "name": "Tomatio13/mcp-server-tavily",
         "link": "https://github.com/Tomatio13/mcp-server-tavily",
         "description": "Tavily AI search API",
@@ -513,7 +449,6 @@
     },
     {
         "category": "Search",
-        "source": "- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers",
         "name": "blazickjp/arxiv-mcp-server",
         "link": "https://github.com/blazickjp/arxiv-mcp-server",
         "description": "Search ArXiv research papers",
@@ -521,7 +456,6 @@
     },
     {
         "category": "Search",
-        "source": "- [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - Search Google and do deep web research on any topic",
         "name": "mzxrai/mcp-webresearch",
         "link": "https://github.com/mzxrai/mcp-webresearch",
         "description": "Search Google and do deep web research on any topic",
@@ -529,7 +463,6 @@
     },
     {
         "category": "Search",
-        "source": "- [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv)  🐍 ☁️ -  MCP for LLM to search and read papers from arXiv",
         "name": "andybrandt/mcp-simple-arxiv",
         "link": "https://github.com/andybrandt/mcp-simple-arxiv",
         "description": "MCP for LLM to search and read papers from arXiv",
@@ -537,7 +470,6 @@
     },
     {
         "category": "Search",
-        "source": "- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed)  🐍 ☁️ -  MCP to search and read medical / life sciences papers from PubMed.",
         "name": "andybrandt/mcp-simple-pubmed",
         "link": "https://github.com/andybrandt/mcp-simple-pubmed",
         "description": "MCP to search and read medical / life sciences papers from PubMed.",
@@ -545,7 +477,6 @@
     },
     {
         "category": "Search",
-        "source": "- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.",
         "name": "apify/mcp-server-rag-web-browser",
         "link": "https://github.com/apify/mcp-server-rag-web-browser",
         "description": "An MCP server for Apify's RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.",
@@ -553,7 +484,6 @@
     },
     {
         "category": "Search",
-        "source": "- [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - An MCP Server to connect to searXNG instances",
         "name": "SecretiveShell/MCP-searxng",
         "link": "https://github.com/SecretiveShell/MCP-searxng",
         "description": "An MCP Server to connect to searXNG instances",
@@ -561,7 +491,6 @@
     },
     {
         "category": "Search",
-        "source": "- [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP Server for upto date dependency information of Clojure libraries",
         "name": "Bigsy/Clojars-MCP-Server",
         "link": "https://github.com/Bigsy/Clojars-MCP-Server",
         "description": "Clojars MCP Server for upto date dependency information of Clojure libraries",
@@ -569,7 +498,6 @@
     },
     {
         "category": "Security",
-        "source": "- [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) 📇 ☁️ - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources. This server provides tools for searching usernames across social networks and analyzing URLs.",
         "name": "Maigret MCP Server",
         "link": "https://github.com/BurtTheCoder/mcp-maigret",
         "description": "MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources. This server provides tools for searching usernames across social networks and analyzing URLs.",
@@ -577,7 +505,6 @@
     },
     {
         "category": "Security",
-        "source": "- [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) 📇 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.",
         "name": "Shodan MCP Server",
         "link": "https://github.com/BurtTheCoder/mcp-shodan",
         "description": "MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.",
@@ -585,7 +512,6 @@
     },
     {
         "category": "Security",
-        "source": "- [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) 📇 ☁️ - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.",
         "name": "VirusTotal MCP Server",
         "link": "https://github.com/BurtTheCoder/mcp-virustotal",
         "description": "MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.",
@@ -593,7 +519,6 @@
     },
     {
         "category": "Travel",
-        "source": "- [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - Access Dutch Railways (NS) travel information, schedules, and realtime updates",
         "name": "NS Travel Information MCP Server",
         "link": "https://github.com/r-huijts/ns-mcp-server",
         "description": "Access Dutch Railways (NS) travel information, schedules, and realtime updates",
@@ -601,7 +526,6 @@
     },
     {
         "category": "Version Control",
-        "source": "- [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) 📇 ☁️ - GitHub API integration for repository management, PRs, issues, and more",
         "name": "@modelcontextprotocol/server-github",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
         "description": "GitHub API integration for repository management, PRs, issues, and more",
@@ -609,7 +533,6 @@
     },
     {
         "category": "Version Control",
-        "source": "- [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations",
         "name": "@modelcontextprotocol/server-gitlab",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab",
         "description": "GitLab platform integration for project management and CI/CD operations",
@@ -617,7 +540,6 @@
     },
     {
         "category": "Version Control",
-        "source": "- [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - Direct Git repository operations including reading, searching, and analyzing local repositories",
         "name": "@modelcontextprotocol/server-git",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
         "description": "Direct Git repository operations including reading, searching, and analyzing local repositories",
@@ -625,7 +547,6 @@
     },
     {
         "category": "Version Control",
-        "source": "- [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM",
         "name": "adhikasp/mcp-git-ingest",
         "link": "https://github.com/adhikasp/mcp-git-ingest",
         "description": "Read and analyze GitHub repositories with your LLM",
@@ -633,7 +554,6 @@
     },
     {
         "category": "Others",
-        "source": "- [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Update, create, delete content, content-models and assets in your Contentful Space",
         "name": "ivo-toby/contentful-mcp",
         "link": "https://github.com/ivo-toby/contentful-mcp",
         "description": "models and assets in your Contentful Space",
@@ -641,7 +561,6 @@
     },
     {
         "category": "Others",
-        "source": "- [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - Chat with OpenAI's smartest models",
         "name": "mzxrai/mcp-openai",
         "link": "https://github.com/mzxrai/mcp-openai",
         "description": "Chat with OpenAI's smartest models",
@@ -649,7 +568,6 @@
     },
     {
         "category": "Others",
-        "source": "- [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Token-efficient Go documentation server that provides AI assistants with smart access to package docs and types without reading entire source files",
         "name": "mrjoshuak/godoc-mcp",
         "link": "https://github.com/mrjoshuak/godoc-mcp",
         "description": "efficient Go documentation server that provides AI assistants with smart access to package docs and types without reading entire source files",
@@ -657,7 +575,6 @@
     },
     {
         "category": "Others",
-        "source": "- [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - Query OpenAI models directly from Claude using MCP protocol",
         "name": "pierrebrunelle/mcp-server-openai",
         "link": "https://github.com/pierrebrunelle/mcp-server-openai",
         "description": "Query OpenAI models directly from Claude using MCP protocol",
@@ -665,7 +582,6 @@
     },
     {
         "category": "Others",
-        "source": "- [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - MCP server that exercises all the features of the MCP protocol",
         "name": "@modelcontextprotocol/server-everything",
         "link": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
         "description": "MCP server that exercises all the features of the MCP protocol",
@@ -673,7 +589,6 @@
     },
     {
         "category": "Others",
-        "source": "- [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) 🐍 ☁️ - Interacting with Phabricator API",
         "name": "baba786/phabricator-mcp-server",
         "link": "https://github.com/baba786/phabricator-mcp-server",
         "description": "Interacting with Phabricator API",
@@ -681,7 +596,6 @@
     },
     {
         "category": "Others",
-        "source": "- [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - Interacting with Obsidian via REST API",
         "name": "MarkusPfundstein/mcp-obsidian",
         "link": "https://github.com/MarkusPfundstein/mcp-obsidian",
         "description": "Interacting with Obsidian via REST API",
@@ -689,7 +603,6 @@
     },
     {
         "category": "Others",
-        "source": "- [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).",
         "name": "calclavia/mcp-obsidian",
         "link": "https://github.com/calclavia/mcp-obsidian",
         "description": "This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).",
@@ -697,7 +610,6 @@
     },
     {
         "category": "Others",
-        "source": "- [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - Fetch YouTube subtitles",
         "name": "anaisbetts/mcp-youtube",
         "link": "https://github.com/anaisbetts/mcp-youtube",
         "description": "Fetch YouTube subtitles",
@@ -705,7 +617,6 @@
     },
     {
         "category": "Others",
-        "source": "- [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - Integrates with Notion's API to manage personal todo lists",
         "name": "danhilse/notion_mcp",
         "link": "https://github.com/danhilse/notion_mcp",
         "description": "Integrates with Notion's API to manage personal todo lists",
@@ -713,7 +624,6 @@
     },
     {
         "category": "Others",
-        "source": "- [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Autonomous shell execution, computer control and coding agent. (Mac)",
         "name": "rusiaaman/wcgw",
         "link": "https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md",
         "description": "Autonomous shell execution, computer control and coding agent. (Mac)",
@@ -721,7 +631,6 @@
     },
     {
         "category": "Others",
-        "source": "- [reeeeemo/ancestry-mcp](https://github.com/reeeeemo/ancestry-mcp) 🐍 🏠 - Allows the AI to read .ged files and genetic data",
         "name": "reeeeemo/ancestry-mcp",
         "link": "https://github.com/reeeeemo/ancestry-mcp",
         "description": "Allows the AI to read .ged files and genetic data",
@@ -729,7 +638,6 @@
     },
     {
         "category": "Others",
-        "source": "- [sirmews/apple-notes-mcp](https://github.com/sirmews/apple-notes-mcp) 🐍 🏠 - Allows the AI to read from your local Apple Notes database (macOS only)",
         "name": "sirmews/apple-notes-mcp",
         "link": "https://github.com/sirmews/apple-notes-mcp",
         "description": "Allows the AI to read from your local Apple Notes database (macOS only)",
@@ -737,7 +645,6 @@
     },
     {
         "category": "Others",
-        "source": "- [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API integration to fetch cryptocurrency listings and quotes",
         "name": "anjor/coinmarket-mcp-server",
         "link": "https://github.com/anjor/coinmarket-mcp-server",
         "description": "Coinmarket API integration to fetch cryptocurrency listings and quotes",
@@ -745,7 +652,6 @@
     },
     {
         "category": "Others",
-        "source": "- [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) 📇 🏠 - Interacting with Notion API",
         "name": "suekou/mcp-notion-server",
         "link": "https://github.com/suekou/mcp-notion-server",
         "description": "Interacting with Notion API",
@@ -753,7 +659,6 @@
     },
     {
         "category": "Others",
-        "source": "- [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - Send requests to OpenAI, MistralAI, Anthropic, xAI, or Google AI using MCP protocol via tool or predefined prompts. Vendor API key required",
         "name": "amidabuddha/unichat-mcp-server",
         "link": "https://github.com/amidabuddha/unichat-mcp-server",
         "description": "Send requests to OpenAI, MistralAI, Anthropic, xAI, or Google AI using MCP protocol via tool or predefined prompts. Vendor API key required",
@@ -761,7 +666,6 @@
     },
     {
         "category": "Others",
-        "source": "- [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - Access MIRO whiteboards, bulk create and read items. Requires OAUTH key for REST API.",
         "name": "evalstate/mcp-miro",
         "link": "https://github.com/evalstate/mcp-miro",
         "description": "Access MIRO whiteboards, bulk create and read items. Requires OAUTH key for REST API.",
@@ -769,7 +673,6 @@
     },
     {
         "category": "Others",
-        "source": "- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - Natural language search and content access for Confluence workspaces",
         "name": "sooperset/mcp-atlassian",
         "link": "https://github.com/sooperset/mcp-atlassian",
         "description": "Natural language search and content access for Confluence workspaces",
@@ -777,7 +680,6 @@
     },
     {
         "category": "Others",
-        "source": "- [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more",
         "name": "pyroprompts/any-chat-completions-mcp",
         "link": "https://github.com/pyroprompts/any-chat-completions-mcp",
         "description": "Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more",
@@ -785,7 +687,6 @@
     },
     {
         "category": "Others",
-        "source": "- [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) 🐍 🏠 -  An MCP server that installs other MCP servers for you.",
         "name": "anaisbetts/mcp-installer",
         "link": "https://github.com/anaisbetts/mcp-installer",
         "description": "An MCP server that installs other MCP servers for you.",
@@ -793,7 +694,6 @@
     },
     {
         "category": "Others",
-        "source": "- [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) 🐍 ☁️ - Interacting with Perplexity API.",
         "name": "tanigami/mcp-server-perplexity",
         "link": "https://github.com/tanigami/mcp-server-perplexity",
         "description": "Interacting with Perplexity API.",
@@ -801,7 +701,6 @@
     },
     {
         "category": "Others",
-        "source": "- [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - Wikipedia Article lookup API",
         "name": "future-audiences/wikimedia-enterprise-model-context-protocol",
         "link": "https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol",
         "description": "Wikipedia Article lookup API",
@@ -809,7 +708,6 @@
     },
     {
         "category": "Others",
-        "source": "- [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - An MCP server that allows checking local time on the client machine or current UTC time from an NTP server",
         "name": "andybrandt/mcp-simple-timeserver",
         "link": "https://github.com/andybrandt/mcp-simple-timeserver",
         "description": "An MCP server that allows checking local time on the client machine or current UTC time from an NTP server",
@@ -817,7 +715,6 @@
     },
     {
         "category": "Others",
-        "source": "- [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  MCP to talk to OpenAI assistants (Claude can use any GPT model as his assitant)",
         "name": "andybrandt/mcp-simple-openai-assistant",
         "link": "https://github.com/andybrandt/mcp-simple-openai-assistant",
         "description": "🐍 ☁️ MCP to talk to OpenAI assistants (Claude can use any GPT model as his assitant)",
@@ -825,7 +722,6 @@
     },
     {
         "category": "Others",
-        "source": "- [@llmindset/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Use HuggingFace Spaces directly from Claude. Use Open Source Image Generation, Chat, Vision tasks and more. Supports Image, Audio and text uploads/downloads.",
         "name": "@llmindset/mcp-hfspace",
         "link": "https://github.com/evalstate/mcp-hfspace",
         "description": "Use HuggingFace Spaces directly from Claude. Use Open Source Image Generation, Chat, Vision tasks and more. Supports Image, Audio and text uploads/downloads.",
@@ -833,7 +729,6 @@
     },
     {
         "category": "Others",
-        "source": "- [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.",
         "name": "zueai/mcp-manager",
         "link": "https://github.com/zueai/mcp-manager",
         "description": "Simple Web UI to install and manage MCP servers for Claude Desktop App.",
@@ -841,7 +736,6 @@
     },
     {
         "category": "Others",
-        "source": "- [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - CLI tool for testing MCP servers",
         "name": "wong2/mcp-cli",
         "link": "https://github.com/wong2/mcp-cli",
         "description": "CLI tool for testing MCP servers",
@@ -849,7 +743,6 @@
     },
     {
         "category": "Others",
-        "source": "- [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) 🐍 🏠 - Generate visualizations from fetched data using the VegaLite format and renderer.",
         "name": "isaacwasserman/mcp-vegalite-server",
         "link": "https://github.com/isaacwasserman/mcp-vegalite-server",
         "description": "Generate visualizations from fetched data using the VegaLite format and renderer.",
@@ -857,7 +750,6 @@
     },
     {
         "category": "Others",
-        "source": "- [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) 📇 🏠 - Access Home Assistant data and control devices (lights, switches, thermostats, etc).",
         "name": "tevonsb/homeassistant-mcp",
         "link": "https://github.com/tevonsb/homeassistant-mcp",
         "description": "Access Home Assistant data and control devices (lights, switches, thermostats, etc).",
@@ -865,7 +757,6 @@
     },
     {
         "category": "Others",
-        "source": "- [nguyenvanduocit/all-in-one-model-context-protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol) 🏎️ 🏠 - Some useful tools for developer.",
         "name": "nguyenvanduocit/all-in-one-model-context-protocol",
         "link": "https://github.com/nguyenvanduocit/all-in-one-model-context-protocol",
         "description": "Some useful tools for developer.",
@@ -873,7 +764,6 @@
     },
     {
         "category": "Others",
-        "source": "- [@joshuarileydev/mac-apps-launcher-mcp-server](https://github.com/JoshuaRileyDev/mac-apps-launcher) 📇 🏠 - An MCP server to list and launch applications on MacOS",
         "name": "@joshuarileydev/mac-apps-launcher-mcp-server",
         "link": "https://github.com/JoshuaRileyDev/mac-apps-launcher",
         "description": "An MCP server to list and launch applications on MacOS",
@@ -881,7 +771,6 @@
     },
     {
         "category": "Others",
-        "source": "- [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats",
         "name": "ZeparHyfar/mcp-datetime",
         "link": "https://github.com/ZeparHyfar/mcp-datetime",
         "description": "MCP server providing date and time functions in various formats",
@@ -889,7 +778,6 @@
     },
     {
         "category": "Others",
-        "source": "- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.",
         "name": "kimtth/mcp-aoai-web-browsing",
         "link": "https://github.com/kimtth/mcp-aoai-web-browsing",
         "description": "A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.",
