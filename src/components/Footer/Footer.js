@@ -10,7 +10,7 @@ export default function Footer() {
           </p>
           <div className={styles.links}>
             <a
-              href="https://github.com/modelcontextprotocol"
+              href="https://github.com/infiplextechlabs/mcpserverslist"
               target="_blank"
               rel="noopener noreferrer"
             >
